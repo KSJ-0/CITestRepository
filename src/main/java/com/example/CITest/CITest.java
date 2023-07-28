@@ -12,6 +12,6 @@ public class CITest {
 
     @GetMapping
     public String hello() {
-        return "Hello World!";
+        return "Hello World!!";
     }
 }
